@@ -10,7 +10,7 @@
   "keywords": [
     "api"
   ],
-  "author": "satya",
+  "author": "Simar kaur",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
